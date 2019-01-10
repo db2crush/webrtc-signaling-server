@@ -54,8 +54,10 @@ npm run build && npm run prod
 ```
 
 ## Test
+Unit tests are Mocha based.
+Load tests are artillery based.
 
-Simply enter the following command and checkout log
+Simply enter the following command and checkout log.
 
 ```bash
 npm run server-test
