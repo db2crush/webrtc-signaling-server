@@ -1,0 +1,26 @@
+{
+  "config": {
+    "target": "wss://192.168.0.121:90",
+    "phases": [{
+      "duration": 30,
+      "arrivalRate": 150
+    }],
+    "payload": {
+      "path": "./load.csv",
+      "fields": ["sId"]
+    },
+    "ws": {
+      "rejectUnauthorized": false
+    }
+  },
+  "scenarios": [{
+    "engine": "ws",
+    "flow": [{
+      "send": {
+        "cmd": "sId",
+        "sId": "{{sId}}",
+        "think": 60
+      }
+    }]
+  }]
+}
