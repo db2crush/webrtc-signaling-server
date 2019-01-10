@@ -66,12 +66,4 @@ npm run load-test
 
 
 ## Version
-0.1
----
-description: WebRTC Signaling Server
----
-
-
-
-
-
+0.0.1
