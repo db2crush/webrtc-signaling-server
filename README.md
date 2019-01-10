@@ -1,17 +1,17 @@
-# Introduction 
+## Introduction 
 WebRTC-Signaling-Server
 
-# Contributor
+## Contributor
 @name
 SangGee Park (delbert)
 
 @contact
 delbertvibes@gmail.com
 
-# Description
+## Description
 nodejs, es6, websocket, JSON
 
-# Folder Structure
+## Folder Structure
 ```bash
 ├── index.js
 ├── test
@@ -24,12 +24,12 @@ nodejs, es6, websocket, JSON
     └── system.js (top module)
 ```
 
-# Git Branch
+## Git Branch
 ```bash
 ├── master
 ```
 
-# Build and Run
+## Build and Run
 1. Install all of denpendencies in the pacakage.json
 
 ```bash
@@ -46,14 +46,14 @@ production
 npm run build && npm run prod
 ```
 
-# dist
+## dist
 ```bash
 ├── server   (server    module)
 ├── system   (signaling module)
 ├── index.js (intro     file)
 ```
 
-# Test
+## Test
 
 Simply enter the following command and checkout log
 
@@ -65,15 +65,13 @@ npm run load-test
 ```
 
 
-# Version
+## Version
 0.1
 ---
 description: WebRTC Signaling Server
 ---
 
-# Overview
 
-![](.gitbook/assets/image.png)
 
 
 
