@@ -8,6 +8,9 @@ SangGee Park (delbert)
 @contact
 delbertvibes@gmail.com
 
+@region
+Seoul, South Korea
+
 ## Description
 nodejs, es6, websocket, JSON
 
