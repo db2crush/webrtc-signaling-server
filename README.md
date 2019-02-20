@@ -6,7 +6,7 @@ WebRTC-Signaling-Server
 SangGee Park (delbert)
 
 @contact
-delbertvibes@gmail.com
+db2crush@gmail.com
 
 @region
 Seoul, South Korea
